@@ -1,0 +1,11 @@
+11/19 
+file -> add code project -> actor
+出現MyActor.cpp 和MyActor.h
+
+11/19
+Tick function()
+
+11/20
+create camera object
+create bp object of character
+https://www.youtube.com/watch?v=QA-3466E6LU&t=664s
